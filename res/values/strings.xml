@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, EKGAnalyseActivity!</string>
+    <string name="app_name">Heart monitor</string>
+    <string name="btnotaval">Bluetooth is not available!</string>
+    <string name="btaval">Bluetooth device is available.</string>
+    <string name="findnewdev">Find new devices</string>
+    <string name="nonefound">None found</string>
+    <string name="btstate">Bluetooth state</string>
+    <string name="btenabled">Bluetooth is enabled.</string>
+    <string name="btsearch">Searching new devices.</string>
+    <string name="btsearchend">Searching ended.</string>
+    <string name="couldntconnect">Couldnt connect to device:</string>
+    <string name="connecting">Connecting</string>
+    <string name="connectedto">Connected to:</string>
+    <string name="clouldntclose">Couldnt close connection with device.</string>
+    <string name="send">Send</string>
+    <string name="none">None</string>
+    <string name="start">Start</string>
+    <string name="settings">Settings</string>
+    <string name="help">Help</string>
+    <string name="exit">Exit</string>
+    <string name="service_started">Service started</string>
+    <string name="service_label">Service label</string>
+    <string name="ecgnotvisible">ECG device is not visible!</string>
+    <string name="typename">Type your name</string>
+    <string name="timeanddateof">Time and date of end record</string>
+
+</resources>

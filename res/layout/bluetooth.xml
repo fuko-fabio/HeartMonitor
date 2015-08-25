@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textBluetoothState"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btstate" />
+
+    <Button
+        android:id="@+id/buttonFinfDevices"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/findnewdev" />
+
+    <ListView
+        android:id="@+id/listBluetoothDevices"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+    </ListView>
+
+</LinearLayout>
